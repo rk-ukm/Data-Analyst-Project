@@ -1,3 +1,5 @@
+# data-analyst-project
+
 Hi!
 Dans ce projet...
 J'ai essayé de découvrir et de cartographier les éléments suivants :
@@ -8,9 +10,8 @@ NB.: L'ensemble des slides du projet n'est pas inclus ici en raison de la limita
 
 
 
-# data-analyst-project
+### Repo : data-analyst-project
 
-…or create a new repository on the command line
 echo "# data-analyst-project" >> README.md
 
 git init
