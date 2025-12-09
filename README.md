@@ -1,4 +1,5 @@
-# Data Analyst Project
+# Data Analyst Project </br>
+#### Power BI
 
 Hi!</br>
 Dans ce projet...</br>
@@ -33,7 +34,7 @@ PDF => https://drive.google.com/file/d/1vr89S3_HePrkdxBDK80q8_lOVCIm-b6w/view?us
 EXE => https://drive.google.com/file/d/1kr_CWpZKungxS6YafA-OwxGY6sxvHeXi/view?usp=sharing </br>
 
 
-
+</br></br>
 ### Repo : data-analyst-project
 
 echo "# data-analyst-project" >> README.md </br>
