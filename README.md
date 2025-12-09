@@ -1,10 +1,29 @@
 # data-analyst-project
 
-Hi!
-Dans ce projet...
-J'ai essayé de découvrir et de cartographier les éléments suivants :
+Hi!</br>
+Dans ce projet...</br>
+J'ai essayé de découvrir et de cartographier les éléments suivants :</br>
 
-Production, consommation (par région, département, commune, arrondissement, écart et %), par habitant, déficit/excédent, exportations/importations, écart entre production et consommation, tendances de consommation, ratios de production nationale et importations, tendances de consommation journalières/mensuelles/annuelles et saisonnières, opérateurs et distribution d'énergie en France, bornes de recharge pour véhicules électriques, part de marché des opérateurs énergétiques, répartition géographique de la consommation d'électricité et de gaz, indice des prix à la consommation, inflation énergétique, tendances et comportements saisonniers des prix, consommation d'électricité et de gaz par habitant des pays voisins chaque année, demande d'électricité et de gaz par pays, pourcentage de consommation d'énergie (électricité, gaz) par habitant en France par rapport aux pays voisins, tendances et dépendance énergétique (électricité, gaz) de la France et des pays voisins, principaux pays consommateurs d'électricité, prévision de la consommation d'énergie (électricité, gaz) en France pour les 5 prochaines années.
+Production </br>
+Consommation (par région, département, commune, arrondissement, écart et %) par habitant </br>
+Déficit/excédent, exportations/importations </br>
+Écart entre production et consommation </br>
+Tendances de consommation </br>
+Ratios de production nationale et importations </br>
+Tendances de consommation journalières/mensuelles/annuelles et saisonnières </br> 
+Opérateurs et distribution d'énergie en France </br>
+Bornes de recharge pour véhicules électriques </br>
+Part de marché des opérateurs énergétiques </br>
+Répartition géographique de la consommation d'électricité et de gaz </br>
+Indice des prix à la consommation </br>
+Inflation énergétique </br>
+Tendances et comportements saisonniers des prix </br>
+Consommation d'électricité et de gaz par habitant des pays voisins chaque année </br>
+Demande d'électricité et de gaz par pays </br>
+Pourcentage de consommation d'énergie (électricité, gaz) par habitant en France par rapport aux pays voisins </br>
+Tendances et dépendance énergétique (électricité, gaz) de la France et des pays voisins </br>
+Principaux pays consommateurs d'électricité </br>
+Prévision de la consommation d'énergie (électricité, gaz) en France pour les 5 prochaines années. </br> </br>
 
 NB.: L'ensemble des slides du projet n'est pas inclus ici en raison de la limitation de la taille des fichiers.
 
@@ -12,16 +31,16 @@ NB.: L'ensemble des slides du projet n'est pas inclus ici en raison de la limita
 
 ### Repo : data-analyst-project
 
-echo "# data-analyst-project" >> README.md
+echo "# data-analyst-project" >> README.md </br>
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/rk-ukm/data-analyst-project.git
-git push -u origin main
+git init </br>
+git add README.md </br>
+git commit -m "first commit" </br>
+git branch -M main </br>
+git remote add origin https://github.com/rk-ukm/data-analyst-project.git </br>
+git push -u origin main </br>
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/rk-ukm/data-analyst-project.git
-git branch -M main
-git push -u origin main
+…or push an existing repository from the command line </br>
+git remote add origin https://github.com/rk-ukm/data-analyst-project.git </br>
+git branch -M main </br>
+git push -u origin main </br>
