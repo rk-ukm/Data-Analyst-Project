@@ -29,8 +29,8 @@ NB.: L'ensemble des slides du projet n'est pas inclus ici en raison de la limita
 
 PS: Vous pouvez consulter ou télécharger mon projet récent au format .exe (189MB) aussi bien que .pdf (43.5 MB). </br>
 
-https://drive.google.com/file/d/1vr89S3_HePrkdxBDK80q8_lOVCIm-b6w/view?usp=sharing </br>
-https://drive.google.com/file/d/1kr_CWpZKungxS6YafA-OwxGY6sxvHeXi/view?usp=sharing </br>
+PDF => https://drive.google.com/file/d/1vr89S3_HePrkdxBDK80q8_lOVCIm-b6w/view?usp=sharing </br>
+EXE => https://drive.google.com/file/d/1kr_CWpZKungxS6YafA-OwxGY6sxvHeXi/view?usp=sharing </br>
 
 
 
