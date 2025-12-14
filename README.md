@@ -5,7 +5,7 @@ Hi!</br>
 Dans ce projet...</br>
 J'ai essayé de découvrir et de cartographier les éléments suivants :</br>
 
-Production </br>
+Production (par région et par filières - nucléaire, hydroélectrique, solaire, éolienne, thermique... etc.) </br>
 Consommation (par région, département, commune, arrondissement, écart et %) par habitant </br>
 Déficit/excédent, exportations/importations </br>
 Écart entre production et consommation </br>
